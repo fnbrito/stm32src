@@ -3,7 +3,7 @@
 C to assembler menu hook
  * 
  */
-#include <stdio.h>
+#include <stdio.h> //TESTE
 #include <stdint.h>
 #include <ctype.h>
 
